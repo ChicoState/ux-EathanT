@@ -5,4 +5,4 @@
 My name is Eathan Tillman, I am a senior persuing a computer science major and cybersecurity minor. I enjoy entomology, hiking, networking, and swarm intelligence based models.
 
 ## Journal Entries
-- [Software Development is hard](./j01.md)
+[Software Development is hard](./j01.md)
